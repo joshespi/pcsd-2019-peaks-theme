@@ -131,9 +131,10 @@ header styles
 		margin-top: -40px;
 	}
 	#cludo-search-form {width:100%;position:relative;display:block;}
-	#mainHeader .sociallinks,#mainHeader #cludo-search-form .search-input, #mainHeader #cludo-search-form .search-submit {
+	#mainHeader .sociallinks{
 		top:0;
 	}
+	#mainHeader #cludo-search-form .search-input, #mainHeader #cludo-search-form .search-submit {top: 20px;}
 	#mainHeader #cludo-search-form .search-input {
 		width: calc(100% - 35px);
 		left: 0px;
