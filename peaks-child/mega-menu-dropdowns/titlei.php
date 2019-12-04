@@ -8,15 +8,15 @@
 						<p>Title I Coordinator: David Hullinger (davidh@provo.edu)</p>
 				</div>
 				<div class="dropDownColumn">
-					<h3><img src="https://peaks.provo.edu/wp-content/themes/pcsd-2019-theme/assets/icons/procedures1.svg" alt="" />Parent Involvement Policy</h3>
+					<h3><img src="https://peaks.provo.edu/wp-content/themes/pcsd-2019-theme/assets/icons/procedures1.svg" alt="" />Parent &amp; Family Engagement Policy</h3>
 						<ul>
-							<li class="pdf"><a href="https://peaks.provo.edu/wp-content/uploads/2019/02/PPK-2018-ParentInvolvement.pdf">Parent Involvement Policy</a></li>
-							
+							<li class="pdf"><a href="https://peaks.provo.edu/wp-content/uploads/2019/10/PPKS_ParentEngagement_fy20_Eng.pdf">Parent &amp; Family Engagement Policy</a></li>
+							<li class="pdf"><a href="https://peaks.provo.edu/wp-content/uploads/2019/10/PPKS_ParentEngagement_fy20_Spa.pdf">Política de participación de padres y familias</a></li>
 						</ul>
 					<h3><img src="https://peaks.provo.edu/wp-content/themes/pcsd-2019-theme/assets/icons/policy.svg" alt="" />School/Parent Compact</h3>
 						<ul>
-							<li class="pdf"><a href="https://peaks.provo.edu/wp-content/uploads/2019/02/PPK_2018_ParentCompact.pdf">School/Parent Compact</a></li>
-							
+							<li class="pdf"><a href="https://peaks.provo.edu/wp-content/uploads/2019/10/PPKS_ParentCompact_fy20_Eng.pdf">School/Parent Compact</a></li>
+							<li class="pdf"><a href="https://peaks.provo.edu/wp-content/uploads/2019/10/PPKS_ParentCompact_fy20_Spa.pdf">Pacto entre padres y familia</a></li>
 						</ul>
 				</div>
 				<div class="dropDownColumn">
