@@ -22,7 +22,7 @@
 				<div class="dropDownColumn">
 					<h3><img src="https://peaks.provo.edu/wp-content/themes/pcsd-2019-theme/assets/icons/policy.svg" alt="" />Additional Resources</h3>
 						<ul>
-							<li class="int"><a href="https://peaks.provo.edu/wp-content/uploads/2019/02/titleI-reportcard.pdf">School Report Card</a></li>
+							<li class="int"><a href="https://utahschoolgrades.schools.utah.gov/Home/SchoolOverAllPerformance?SchoolID=180612&DistrictID=1222&SchoolNbr=103&SchoolLevel=K8&IsSplitSchool=0">School Report Card</a></li>
 							<li class="int"><a href="https://peaks.provo.edu/wp-content/uploads/2019/02/PP-FY19-Needs-Assessment-TitleI.pdf">School Needs Assessment</a></li>
 							<li class="int"><a href="https://peaks.provo.edu/wp-content/uploads/2019/02/PPK_2018_ParentRightToKnow.pdf">Parents Right to Know</a></li>
 							<li class="ext"><a href="https://provo.edu/title-i/">District Title I</a></li>
