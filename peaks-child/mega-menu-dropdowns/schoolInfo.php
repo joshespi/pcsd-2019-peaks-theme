@@ -38,6 +38,6 @@
 		</ul>
 	<h3><img src="https://peaks.provo.edu/wp-content/themes/pcsd-2019-theme/assets/icons/school-info.svg" alt="" />Media Center</h3>
 		<ul>
-			 <li class="ext"><a href="https://provo.follettdestiny.com/common/welcome.jsp?context=saas72_4320305">Library Catalog </a></li>
+			 <li class="ext"><a href="https://search.follettsoftware.com/metasearch/ui/71932">Library Catalog </a></li>
 		</ul>
 </div>
